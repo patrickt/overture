@@ -1,0 +1,12 @@
+name:                prelude-overture
+version:             0.1.0.0
+synopsis:            A drop-in generalized replacement for the Prelude.
+license:             PublicDomain
+author:              Patrick Thomson
+maintainer:          patrick.william.thomson@gmail.com
+category:            Prelude
+build-type:          Simple
+cabal-version:       >=1.8
+
+library     
+  build-depends:       base ==4.6.*
